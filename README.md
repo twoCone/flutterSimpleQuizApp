@@ -1,16 +1,14 @@
-# flutter_complete_guide
+# Simple Quiz App
+I'm starting my flutter journey with this simple QuizApp :) 
 
-A new Flutter project.
+There are some screenshots of my first app : 
 
-## Getting Started
+# Quiz : 
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/75604874/135261304-6a26cdb8-7010-44b8-af37-f469b435904f.png) 
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/75604874/135261328-9fce07b6-da41-41f8-a86c-67513260cb4b.png) 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Result : 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/75604874/135261359-0cd5c328-ca60-4dfc-a89a-3cfa7e9cd7dd.png)
